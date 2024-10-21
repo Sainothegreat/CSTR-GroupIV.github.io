@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Teenage Pregnancy in the Philippines</title>
+    <title>Teenage Pregnancy in the Philippines
+    By Group IV</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
